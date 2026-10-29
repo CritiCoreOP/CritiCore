@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Admin and login pages are not meant for search results (one line per language: a pattern like
+# /*/admin would also match article slugs that start with "admin")
+Disallow: /de-DE/admin
+Disallow: /de-DE/auth
+Disallow: /en-US/admin
+Disallow: /en-US/auth
+Disallow: /fr-FR/admin
+Disallow: /fr-FR/auth
+Disallow: /es-ES/admin
+Disallow: /es-ES/auth
+Disallow: /th-TH/admin
+Disallow: /th-TH/auth
+
+Sitemap: https://criticore.cc/sitemap.xml

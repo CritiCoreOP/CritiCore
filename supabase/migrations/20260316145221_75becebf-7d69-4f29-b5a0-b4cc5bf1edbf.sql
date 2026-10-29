@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS forum_onboarded_at timestamptz DEFAULT NULL;

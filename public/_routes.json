@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "description": "Only these paths run Pages Functions. Without this file Cloudflare derives the routes from functions/, and functions/[locale]/ became /*: every script, image and font counted against the 100,000 daily Functions requests.",
+  "include": [
+    "/api/fn/*",
+    "/media/yt/*",
+    "/sitemaps/*",
+    "/de-DE/news/*",
+    "/en-US/news/*",
+    "/th-TH/news/*",
+    "/fr-FR/actualites/*",
+    "/fr-FR/news/*",
+    "/es-ES/noticias/*",
+    "/es-ES/news/*"
+  ],
+  "exclude": []
+}

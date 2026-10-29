@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://criticore.cc/sitemaps/pages.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://criticore.cc/sitemaps/articles.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://criticore.cc/sitemaps/news.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://criticore.cc/sitemaps/media.xml</loc>
+  </sitemap>
+</sitemapindex>

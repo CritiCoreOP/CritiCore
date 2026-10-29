@@ -1,0 +1,33 @@
+# CritiCore
+
+> News and honest reviews for games, movies, and series — community-driven, multilingual, and ad-light.
+
+CritiCore is a media review platform where users rate and review games, movies, and TV series. It aggregates metadata from TMDB, RAWG, and OMDB, supports press-tier publishing, polls, news articles, a public API, and a collaborative editor (Redaim). Available in German, English, French, Spanish, and Thai.
+
+## Pages
+
+- [Home](/de-DE/): Trending movies, series, games, and latest news.
+- [Explore](/de-DE/entdecken): Discover media across all categories.
+- [Movies](/de-DE/filme): Browse and review movies.
+- [Series](/de-DE/serien): Browse and review TV series.
+- [Games](/de-DE/games): Browse and review games.
+- [News](/de-DE/news): Editorial news and patch notes.
+- [Polls](/de-DE/umfragen): Community polls on media topics.
+- [Forum](/de-DE/forum): Community discussions (currently coming soon).
+- [Developers / API](/de-DE/developers): CritiCore Public API v3 documentation.
+- [Support](/de-DE/support): Help center and ticket submission.
+- [Donate](/de-DE/spenden): Support the project.
+
+## Localized roots
+
+- [English](/en-US/): English version of the site.
+- [French](/fr-FR/): Version française.
+- [Spanish](/es-ES/): Versión en español.
+- [Thai](/th-TH/): เวอร์ชันภาษาไทย.
+
+## Optional
+
+- [Imprint](/de-DE/impressum): Legal imprint.
+- [Privacy](/de-DE/datenschutz): Privacy policy.
+- [Terms](/de-DE/agb): Terms of service.
+- [DMCA](/de-DE/dmca): DMCA takedown policy.

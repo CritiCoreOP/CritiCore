@@ -1,0 +1,1 @@
+ALTER TABLE public.forum_communities ADD COLUMN IF NOT EXISTS status_emoji text DEFAULT NULL, ADD COLUMN IF NOT EXISTS status_text text DEFAULT NULL;

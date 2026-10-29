@@ -1,0 +1,1 @@
+ALTER TABLE public.articles ADD COLUMN tgn_plus BOOLEAN NOT NULL DEFAULT false;

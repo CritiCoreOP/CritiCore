@@ -1,0 +1,8 @@
+# Mail-Programme (z. B. Apple Mail) laden die Überschriften-Schrift von criticore.cc
+/fonts/*
+  Access-Control-Allow-Origin: *
+
+# Bluesky-Handle @criticore.cc: die DID als reiner Text
+/.well-known/atproto-did
+  Content-Type: text/plain; charset=utf-8
+  Access-Control-Allow-Origin: *
